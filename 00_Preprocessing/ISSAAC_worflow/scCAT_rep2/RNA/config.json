@@ -1,0 +1,4 @@
+{
+    "star_bin" : "/path/software/STAR_2.7.9a/bin/Linux_x86_64/STAR",
+    "star_idx" : "/path/database/refdata-gex-GRCh38_and_mm10-2020-A/STAR_2.7.9a/"
+}

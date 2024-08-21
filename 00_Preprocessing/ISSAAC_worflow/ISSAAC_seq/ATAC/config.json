@@ -1,0 +1,20 @@
+{
+    "seqtk_bin" : "/path/software/seqtk/seqtk",
+    "faSize_bin" : "/path/software/UCSC/faSize",
+    "chromap_bin" : "/path/software/chromap/chromap",
+    "chromap_idx" : "/path/database/refdata-cellranger-arc-mm10-2020-A/fasta/genome.index",
+    "chromap_fa" : "/path/database/refdata-cellranger-arc-mm10-2020-A/fasta/genome.fa",
+    "bgzip_bin" : "/path/software/samtools/samtools-1.18/bin/bgzip",
+    "tabix_bin" : "/path/software/samtools/samtools-1.18/bin/tabix",
+    "macs2_bin" : "/jdfssz1/ST_SUPERCELLS/PUB/scCAT/pipeline/V1/bin/macs2",
+    "bedtools_bin" : "/path/software/bedtools2/bin/bedtools",
+    "star_bin" : "/path/software/STAR-2.7.10a/bin/Linux_x86_64_static/STAR",
+    "star_idx" : "/path/database/mm10/index_dir",
+    "samtools_bin" : "/path/software/samtools/samtools-1.18/samtools",
+    "blacklist" : "/path/database/mm10-blacklist.bed.gz",
+    "macs2_gsize" : "hs",
+    "macs2_bpk" : "",
+    "macs2_format" : "BED",
+    "macs2_shift" : "--nomodel --extsize 200",
+    "bedClip_bin" : "/path/software/miniconda3/envs/software/bin/bedClip"
+}
