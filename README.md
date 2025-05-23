@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## high throughput single-cell chromatin accessibility and transcriptome sequencing (HT-scCAT-seq)
 ---
 HT-scCAT-seq is a method that simultaneously profiles transcriptome and chromatin accessibility from the same cell.
@@ -36,6 +37,21 @@ HT-scCAT-seq is a method that simultaneously profiles transcriptome and chromati
 - dplyr (v1.0.8)
 - stringr (v1.4.0.9000)
 - stringi (v1.7.6)
+- FigR (v0.3.5)
+- scCustomize (v1.1.3)
+- JASPAR2020 (v0.99.10)
+- TFBSTools (v1.40.0)
+- FNN (v1.1.4.1)
+- cisTopic (v2.1.0)
+- GenomicRanges (v1.54.1)
+- SummarizedExperiment (v1.32.0)
+- tidyverse (v2.0.0)
+- igraph (2.0.3)
+- ComplexHeatmap (v2.18.0)
+- monocle3 (v1.3.1)
+- cicero (v1.26.0)
+- motifmatchr (v1.24.0)
+- chromVAR (v1.24.0)
 
 **other Bioinformatics packages**
 - chromap (0.2.1-r369)
@@ -49,3 +65,7 @@ HT-scCAT-seq is a method that simultaneously profiles transcriptome and chromati
 - faSize, bedClip, calc, addCols from [UCSC utilities](http://hgdownload.soe.ucsc.edu/admin/exe/)
 ## Citation
 Qiuting D. et al. Deciphering gene regulatory programs in mouse embryonic skin through single-cell multiomics analysis. 
+=======
+# HT-scCAT-seq
+---
+>>>>>>> 97018da2bf9ce1339cdde8aa103fb7105476deec
