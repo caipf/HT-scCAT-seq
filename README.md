@@ -1,7 +1,8 @@
 ## high throughput single-cell chromatin accessibility and transcriptome sequencing (HT-scCAT-seq)
 ---
 HT-scCAT-seq is a method that simultaneously profiles transcriptome and chromatin accessibility from the same cell.
-![scCAT-seq.png](src)
+![scCAT-seq.png](/HT-scCAT-seq
+/scCAT-seq.png)
 
 
 ## Reproducing the results from the paper
